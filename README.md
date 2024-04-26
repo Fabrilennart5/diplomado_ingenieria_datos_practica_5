@@ -20,7 +20,7 @@ El objetivo principal de este proyecto es realizar web scraping de páginas web 
 2. Asegúrate de tener instaladas las dependencias de Python, incluyendo las bibliotecas mencionadas anteriormente.
 3. Ejecuta el script principal de Python para iniciar el proceso de web scraping y almacenamiento de datos.
 
-## ## Requisitos del Proyecto 📋
+## Requisitos del Proyecto 📋
 Para ejecutar este proyecto, asegúrate de tener instaladas las siguientes dependencias:
 
 - **SQLite** (versión 3.45.2)
