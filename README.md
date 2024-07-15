@@ -1,5 +1,5 @@
 # Web Scraping con Python y SQLite
-<img align="center" width="1000" height="570" src="https://th.bing.com/th/id/R.b99ee2e1ee4efe95b849d5638ba92fd8?rik=AnKAN0T2KBVS7g&pid=ImgRaw&r=0">
+<img align="center" width="1000" height="565" src="https://th.bing.com/th/id/R.b99ee2e1ee4efe95b849d5638ba92fd8?rik=AnKAN0T2KBVS7g&pid=ImgRaw&r=0">
 
 ## Descripción del Proyecto 📝
 El objetivo principal de este proyecto es realizar web scraping de páginas web seleccionadas para extraer datos relevantes, los cuales serán almacenados en una base de datos relacional SQLite. Se implementará un enfoque de análisis de HTML utilizando la biblioteca Beautiful Soup, y las solicitudes HTTP serán manejadas mediante la librería Requests en Python. Este proyecto permitirá la recopilación sistemática de datos de múltiples fuentes en línea para su posterior análisis y uso.
