@@ -29,7 +29,7 @@ Para ejecutar este proyecto, asegúrate de tener instaladas las siguientes depen
 - **Pandas** (versión 2.2.1)
 
 ## Reporte de Tableau
-Puedes acceder al reporte interactivo de Tableau [aquí]().
+Puedes acceder al reporte interactivo de Tableau: https://public.tableau.com/views/countries_17143583392080/presentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Contribución 💻
 Si deseas contribuir a este proyecto, por favor abre un issue en este repositorio para discutir los cambios propuestos.
